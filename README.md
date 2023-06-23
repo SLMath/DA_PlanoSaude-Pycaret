@@ -1,11 +1,21 @@
-# DAPython
-Training some skills
+# Modelo preditivo do gasto do plano de saúde
 
-# The project
-Developed entirely on google Colab environment, this project is based on FLAI's project https://www.youtube.com/watch?v=6JKWXtC4v3o.
+You can check the outputs on the notebook file (ML_Pycaret.ipynb)
 
-I intented to learn a little bit more about this library called Pycaret and make some data analyis.
+## Description
+Baseado em dados colhidos de clientes anteriores, definir um modelo preditivo para o gasto do plano de saúde. 
+Exploraração da biblioteca `pycaret` que disponibiliza muitas ferramentas de Machine Learning para treinar e comparar diferentes modelos.
 
-The link to it is: https://colab.research.google.com/drive/1SmUjMcCCFgcNQ6jMhFL2ig1CD-hQXCQ3?usp=sharing
+## Getting Started
+You can clone either clone the repository or make a copy of the notebook to your google driver, and then run it.
 
-Comments are allowed, fell free to give me some feedback :)
+## Used Technologies
+- Google Colab
+- Python
+- Pandas
+- Pycaret
+
+## Credits
+This project is based on [FLAI's project](https://www.youtube.com/watch?v=6JKWXtC4v3o)
+
+Comments are allowed, feel free to give me some feedback :)
