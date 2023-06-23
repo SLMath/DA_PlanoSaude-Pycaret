@@ -9,6 +9,8 @@ Exploraração da biblioteca `pycaret` que disponibiliza muitas ferramentas de M
 ## Getting Started
 You can clone either clone the repository or make a copy of the notebook to your google driver, and then run it.
 
+Warning: it takes around 40minutes to run completely, and it may be needed to confirm the variable types after calling the setup function.
+
 ## Used Technologies
 - Google Colab
 - Python
